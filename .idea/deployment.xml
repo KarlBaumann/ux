@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="DO">
+    <serverData>
+      <paths name="DO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/srv/http/dunb.lv/ux" local="$PROJECT_DIR$" web="/ux" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
